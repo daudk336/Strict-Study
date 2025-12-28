@@ -4,12 +4,28 @@ import { QueryClientProvider } from "@tanstack/react-query";
 import { Toaster } from "@/components/ui/toaster";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import NotFound from "@/pages/not-found";
+import DashboardPage from "@/pages/dashboard";
+import SchedulePage from "@/pages/schedule";
+import CoachPage from "@/pages/coach";
+import LoginPage from "@/pages/login";
+import { useAuth } from "@/hooks/use-auth";
 
 function Router() {
+  const { user, isLoading } = useAuth();
+
+  if (isLoading) {
+    return null; // Or a loading spinner
+  }
+
   return (
     <Switch>
-      {/* Add pages below */}
-      {/* <Route path="/" component={Home}/> */}
+      <Route path="/login" component={LoginPage} />
+      
+      {/* Protected Routes - Authenticated users only */}
+      <Route path="/" component={DashboardPage} />
+      <Route path="/schedule" component={SchedulePage} />
+      <Route path="/coach" component={CoachPage} />
+      
       {/* Fallback to 404 */}
       <Route component={NotFound} />
     </Switch>
@@ -20,8 +36,8 @@ function App() {
   return (
     <QueryClientProvider client={queryClient}>
       <TooltipProvider>
-        <Toaster />
         <Router />
+        <Toaster />
       </TooltipProvider>
     </QueryClientProvider>
   );
