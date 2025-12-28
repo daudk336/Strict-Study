@@ -1,0 +1,491 @@
+PROJECT OVERVIEW:
+Build an app  that functions as a strict, minute-by-minute routine tracker with psychological reinforcement, consequence visualization, motivational triggers, AND an integrated AI voice assistant that acts as a personal accountability coach. This is specifically designed for Muhammad Daud Khan (Level 10 Mage), a Pakistan-based GHL developer rebuilding his client base.
+COMPLETE DAILY SCHEDULE (EXACT ROUTINE TO BE PRE-LOADED)
+06:00 – 06:10 | Wake + Hydrate
+Activity: Wake up, drink 500ml water, piss, wash face
+Importance: Critical
+Why it matters: Sets biological rhythm. Dehydration = brain fog all morning.
+Consequence: Skip this and your brain runs at 60% capacity until lunch. You'll make stupid mistakes in client work.
+Motivation: "Your body just spent 8 hours repairing. Now fuel it. First win of the day starts here."
+Trick: Keep water bottle next to bed. Drink before touching phone.
+06:10 – 06:30 | Morning Reflection
+Activity: Sit with coffee/chai, write 3 goals for today, review yesterday
+Importance: Critical
+Why it matters: Winners plan. Losers react. This is where you design your day instead of letting it happen to you.
+Consequence: No reflection = operating on autopilot. You'll waste time, forget priorities, end day wondering what you even did.
+Motivation: "Today's strategy gets written now. You're either directing your day or getting dragged by it."
+Trick: Write fast, don't edit. Stream of consciousness. Focus on: (1) Top client deliverable, (2) Revenue action, (3) Personal win.
+06:30 – 07:00 | Breakfast
+Activity: Eat real food (paratha + eggs, or whatever you have)
+Importance: High
+Why it matters: Fuel for 2-hour work block. Hunger kills focus.
+Consequence: Skip this and you'll crash at 9am, reach for junk food, lose momentum.
+Motivation: "Eating isn't a break. It's loading ammunition for the battle ahead."
+Trick: Prep night before if mornings are rushed. Even leftover rice + egg works.
+07:00 – 07:10 | Smoke Break #1
+Activity: Smoke, mentally prep for first work block
+Importance: Medium
+Why it matters: Nicotine + mental transition into work mode.
+Consequence: None if done on schedule. Problem is if you smoke every 20 minutes instead of every hour.
+Motivation: "Last smoke for an hour. Make this work block count."
+Trick: Step outside if possible. Fresh air + nicotine = better focus than smoking at desk.
+07:10 – 09:10 | WORK BLOCK 1 (2 hours)
+Activity: Deep work on client projects (GHL funnels, widgets, workflows, troubleshooting)
+Importance: CRITICAL
+Sub-tasks during this block:
+Every 10 minutes: Do 10 squats (timer auto-reminds)
+Every 30 minutes: Upper body shuffle (arm circles, shoulder shrugs, stretch)
+08:10: Quick smoke break (5 min max, then back)
+Why it matters: This is revenue generation time. Every hour of deep work = potential client win or completed deliverable.
+Consequence: Skip this and you stay broke. Your competitors are working right now. Clients hire people who deliver, not people who "plan to work later."
+Motivation: "Two focused hours = what most people do in 8 distracted hours. This is where legends separate from average."
+Trick:
+Phone in other room or face-down
+Use Pomodoro timer (25 min work, 5 min stretch)
+Noise-canceling or lo-fi beats
+Work on ONE client deliverable, not 5 tasks
+Close all tabs except what you need
+Work focus priorities (in order):
+Active client deliverables (funnels, widgets, fixes)
+Portfolio updates (showcase your best work)
+Lead-gen content (posts, DMs, outreach)
+Learning new GHL features (stay ahead)
+09:10 – 09:30 | Break + Movement
+Activity: Walk around, stretch, hydrate (200ml)
+Importance: High
+Why it matters: Brain needs oxygen. Sitting 2 hours straight = mental fog.
+Consequence: Skip movement and your next work block will be sluggish. You'll stare at screen without output.
+Motivation: "Movement = mental reset. You're sharpening the blade, not wasting time."
+Trick: Walk outside if possible. Look at something far away (resets eye strain).
+09:30 – 11:30 | WORK BLOCK 2 (2 hours)
+Activity: Continue client work OR prospecting/outreach
+Importance: CRITICAL
+Sub-tasks:
+10 squats every 10 min
+Upper body shuffle every 30 min
+10:30: Smoke break (5 min)
+Focus priorities:
+If Block 1 was client work → do outreach/lead-gen now
+If Block 1 was outreach → do client work now
+Respond to any urgent client messages
+Update Trello/Notion with progress
+Why it matters: This is where you either build your funnel pipeline or deliver for existing clients. Both = money.
+Consequence: Skip this and you're 4 hours behind. That's half a work day gone. Your income suffers directly.
+Motivation: "Block 2 is where discipline shows up. Anyone can do Block 1. Winners do Block 2."
+Trick: Change tasks between blocks. If Block 1 was technical, Block 2 should be communication/outreach.
+11:30 – 12:00 | Lunch Prep + Eat
+Activity: Cook or order, eat slowly
+Importance: High
+Why it matters: Midday fuel. Also mental break from screen.
+Consequence: Skip lunch = energy crash at 2pm. You'll work slow, make mistakes, feel irritable.
+Motivation: "Lunch isn't lazy. It's strategic refueling."
+Trick: Meal prep on Sundays. Batch cook rice + chicken. Saves time daily.
+12:00 – 12:10 | Smoke Break #4
+Activity: Smoke, let lunch digest
+Importance: Medium
+Motivation: "Halfway through work. You're doing the thing. Keep going."
+12:10 – 14:10 | WORK BLOCK 3 (2 hours)
+Activity: Deep work on toughest task of the day
+Importance: CRITICAL
+Sub-tasks:
+10 squats every 10 min
+Upper body shuffle every 30 min
+13:10: Smoke break (5 min)
+Why it matters: This is prime focus time. Brain is fed, body is awake. Use this for complex problem-solving.
+Consequence: Waste Block 3 and you'll scramble in Block 4 trying to catch up. Quality drops, stress rises.
+Motivation: "This block is for the hard stuff. The stuff that pays the most. The stuff your competition avoids."
+Trick:
+Tackle the task you've been avoiding
+Break it into micro-steps (15-min chunks)
+Use AI assistant if stuck: "Help me break this down"
+Ideal focus:
+Complex GHL workflows
+Custom widget coding
+Troubleshooting broken funnels
+Writing technical documentation
+14:10 – 14:30 | Afternoon Reset
+Activity: Step outside, stretch, breathe, hydrate (200ml)
+Importance: High
+Why it matters: 6 hours of work = mental fatigue. Reset now or Block 4 suffers.
+Consequence: Skip this and Block 4 becomes zombie mode. Low output, low quality.
+Motivation: "You're not a machine. Even machines need maintenance. 20 minutes now = 2 hours of good work later."
+Trick: Walk barefoot on grass if possible (grounding). Or just stare at sky for 5 minutes.
+14:30 – 16:30 | WORK BLOCK 4 (2 hours)
+Activity: Final push OR admin tasks (invoices, follow-ups, emails)
+Importance: High
+Sub-tasks:
+10 squats every 10 min
+Upper body shuffle every 30 min
+15:30: Smoke break (5 min)
+Why it matters: Last work block. Either finish strong or leave loose ends.
+Consequence: Skip this and you'll work at night when your brain is fried. Better to finish now.
+Motivation: "Block 4 is the closer. This is where you finish what you started. Don't leave wins on the table."
+Trick:
+If energy is low, do easier tasks (emails, admin, social media)
+If energy is high, push one more deliverable across the finish line
+Ideal focus:
+Client communication (updates, check-ins)
+Send proposals
+Invoice completed work
+Clean up Notion/Trello
+Post on LinkedIn/Twitter (build authority)
+16:30 – 16:40 | Smoke Break #7
+Activity: Smoke, decompress from work
+Importance: Medium
+Motivation: "8 hours done. You showed up. Now reset your brain."
+16:40 – 17:00 | Snack + Hydrate
+Activity: Light snack (fruit, nuts), drink 300ml water
+Importance: Medium
+Why it matters: Fuel before snooker. Hydration prevents evening headache.
+Consequence: Minor. But dehydration ruins snooker focus.
+Trick: Keep snacks prepped. Apples + peanut butter. Almonds. Dates.
+17:00 – 19:00 | SNOOKER SESSION (2 hours)
+Activity: Play snooker (solo practice or with friends)
+Importance: CRITICAL
+Why it matters: This is NOT a break. This is mental reset + flow state training. Snooker = focus, precision, calm under pressure. All skills transfer to work.
+Consequence: Skip snooker and you'll burn out by Wednesday. Creativity dies. Problem-solving slows. You become a stressed, joyless work robot.
+Motivation: "Flow state unlocks creativity. This isn't wasted time. This is brain maintenance. Every great shot trains your mind to focus under pressure."
+Trick:
+No phone during snooker
+Focus on process, not outcome
+Practice one specific shot type each session
+Use this time to let subconscious solve work problems
+19:00 – 19:10 | Smoke Break #8
+Activity: Smoke after snooker
+Importance: Medium
+Motivation: "Mental reset complete. Now fuel the body."
+19:10 – 20:00 | Dinner
+Activity: Eat slowly, no screens
+Importance: High
+Why it matters: Recovery meal. Also only time you're NOT working or thinking about work.
+Consequence: Eat while scrolling phone = you won't feel satisfied. You'll snack later, mess up sleep.
+Motivation: "Eating is not multitasking time. Sit. Eat. Enjoy."
+Trick: Put phone in other room. Eat with family if possible. Or just sit in silence.
+20:00 – 20:30 | Evening Reflection
+Activity: Review work done today, write 1 thing learned, plan tomorrow's top 3 tasks
+Importance: CRITICAL
+Why it matters: Without reflection, you don't learn. You repeat mistakes. You don't improve.
+Consequence: Skip this and tomorrow will be chaotic. You'll forget what worked today. You'll waste time deciding what to do.
+Motivation: "Today's data = tomorrow's strategy. Winners analyze. Losers guess."
+Trick:
+Use voice notes if writing feels heavy
+Ask yourself: What worked? What didn't? What do I do differently tomorrow?
+Plan tomorrow's Block 1 task RIGHT NOW so you don't waste morning deciding
+20:30 – 22:00 | Free Time / Wind Down
+Activity: Do whatever you want (YouTube, reading, music, chill with family)
+Importance: High
+Why it matters: Brain needs downtime. This is decompression, not "wasted time."
+Consequence: Work until 11pm and your sleep quality tanks. You'll wake up groggy, whole next day suffers.
+Motivation: "You earned this. You worked 8 hours, moved your body, reflected. Now rest like you mean it."
+Trick:
+No heavy work
+Avoid doom-scrolling (set timer if needed)
+Hydrate (200ml water before bed)
+21:00: Smoke break if needed
+22:00 – 22:15 | Night Routine
+Activity: Brush teeth, shower (every 48 hours), set alarm, phone away
+Importance: Critical
+Why it matters: Good sleep starts with good pre-sleep routine.
+Consequence: Skip this, keep scrolling, sleep at 1am = tomorrow is ruined.
+Motivation: "Sleep is literally building your future self. Treat it like the most important meeting of your day."
+Trick:
+Shower every 48 hours (mark it on calendar)
+Phone on silent, away from bed
+Set alarm for 06:00
+Room as dark as possible
+22:15 – 06:00 | SLEEP (7h 45m)
+Activity: Sleep
+Importance: CRITICAL
+Why it matters: Your brain repairs. Memories consolidate. Body recovers. Creativity recharges. Sleep is non-negotiable.
+Consequence: Sleep 6 hours and tomorrow you'll be 40% dumber. Slow reactions, bad decisions, low willpower. Clients will notice the drop in quality.
+Motivation: "Every hour you sleep = 2 hours of productive work tomorrow. Do the math."
+Trick:
+Cool room (fan or AC if possible)
+No caffeine after 3pm
+No blue light 30 min before bed
+If mind racing, write thoughts down then close notebook
+MOVEMENT BREAKDOWN (built into 8-hour work)
+Total squats per day: 480 (10 squats every 10 min during work blocks)
+Total upper body shuffles: 16 (every 30 min during work blocks)
+Why it matters: Sitting kills focus. Movement = oxygen to brain = better code, better ideas, better troubleshooting.
+Consequence: Skip movement and you'll have back pain, brain fog, and low energy by 3pm.
+Trick: Set phone timer. Do squats at desk. No excuses.
+SMOKING SCHEDULE
+Total smokes per day: ~18 (every hour during waking hours)
+Breaks: 07:00, 08:10, 09:30, 10:30, 12:00, 13:10, 14:30, 15:30, 16:30, 19:00, 21:00 (if needed)
+Importance: Medium (nicotine management)
+Why it matters: Keeps you on schedule. Prevents chain-smoking during work.
+Consequence: Smoke every 20 min = constant interruptions, work suffers, lungs suffer.
+Trick: Only smoke during scheduled breaks. Use breaks as reward for completing task chunks.
+SHOWER SCHEDULE
+Every 48 hours or after snooker if sweaty
+Mark on calendar: Monday, Wednesday, Friday, Sunday
+Why it matters: Hygiene, mental reset, skin health
+Consequence: Skip showers too long = self-respect drops, energy drops, motivation drops
+Trick: Set phone reminder. Shower = non-negotiable maintenance.
+HYDRATION TARGET
+2.5L per day
+500ml morning
+200ml per break (×6) = 1200ml
+300ml lunch
+300ml dinner
+200ml before bed
+= 2500ml total
+Why it matters: Dehydration = brain fog, headaches, low energy, bad decisions
+Consequence: Drink <1L/day and you'll feel like crap, blame everything except water
+Trick: Keep 1L bottle on desk. Finish before lunch. Refill. Finish before dinner.
+WEEKLY ADJUSTMENT PROTOCOL
+Every Sunday at 20:00, review:
+Did you hit 8 hours of work daily? (Mon-Sat)
+Did you sleep 8 hours nightly?
+Did you move consistently? (squats/upper body)
+Did snooker happen?
+Did morning + evening reflection happen?
+What broke? Why?
+What gets adjusted next week?
+AI will ask these questions and log answers.PROJECT OVERVIEW:
+Build a mobile app (iOS/Android) that functions as a strict, minute-by-minute routine tracker with psychological reinforcement, consequence visualization, motivational triggers, AND an integrated AI voice assistant that acts as a personal accountability coach. This is specifically designed for Muhammad Daud Khan (Level 10 Mage), a Pakistan-based GHL developer rebuilding his client base.
+COMPLETE DAILY SCHEDULE (EXACT ROUTINE TO BE PRE-LOADED)
+06:00 – 06:10 | Wake + Hydrate
+Activity: Wake up, drink 500ml water, piss, wash face
+Importance: Critical
+Why it matters: Sets biological rhythm. Dehydration = brain fog all morning.
+Consequence: Skip this and your brain runs at 60% capacity until lunch. You'll make stupid mistakes in client work.
+Motivation: "Your body just spent 8 hours repairing. Now fuel it. First win of the day starts here."
+Trick: Keep water bottle next to bed. Drink before touching phone.
+06:10 – 06:30 | Morning Reflection
+Activity: Sit with coffee/chai, write 3 goals for today, review yesterday
+Importance: Critical
+Why it matters: Winners plan. Losers react. This is where you design your day instead of letting it happen to you.
+Consequence: No reflection = operating on autopilot. You'll waste time, forget priorities, end day wondering what you even did.
+Motivation: "Today's strategy gets written now. You're either directing your day or getting dragged by it."
+Trick: Write fast, don't edit. Stream of consciousness. Focus on: (1) Top client deliverable, (2) Revenue action, (3) Personal win.
+06:30 – 07:00 | Breakfast
+Activity: Eat real food (paratha + eggs, or whatever you have)
+Importance: High
+Why it matters: Fuel for 2-hour work block. Hunger kills focus.
+Consequence: Skip this and you'll crash at 9am, reach for junk food, lose momentum.
+Motivation: "Eating isn't a break. It's loading ammunition for the battle ahead."
+Trick: Prep night before if mornings are rushed. Even leftover rice + egg works.
+07:00 – 07:10 | Smoke Break #1
+Activity: Smoke, mentally prep for first work block
+Importance: Medium
+Why it matters: Nicotine + mental transition into work mode.
+Consequence: None if done on schedule. Problem is if you smoke every 20 minutes instead of every hour.
+Motivation: "Last smoke for an hour. Make this work block count."
+Trick: Step outside if possible. Fresh air + nicotine = better focus than smoking at desk.
+07:10 – 09:10 | WORK BLOCK 1 (2 hours)
+Activity: Deep work on client projects (GHL funnels, widgets, workflows, troubleshooting)
+Importance: CRITICAL
+Sub-tasks during this block:
+Every 10 minutes: Do 10 squats (timer auto-reminds)
+Every 30 minutes: Upper body shuffle (arm circles, shoulder shrugs, stretch)
+08:10: Quick smoke break (5 min max, then back)
+Why it matters: This is revenue generation time. Every hour of deep work = potential client win or completed deliverable.
+Consequence: Skip this and you stay broke. Your competitors are working right now. Clients hire people who deliver, not people who "plan to work later."
+Motivation: "Two focused hours = what most people do in 8 distracted hours. This is where legends separate from average."
+Trick:
+Phone in other room or face-down
+Use Pomodoro timer (25 min work, 5 min stretch)
+Noise-canceling or lo-fi beats
+Work on ONE client deliverable, not 5 tasks
+Close all tabs except what you need
+Work focus priorities (in order):
+Active client deliverables (funnels, widgets, fixes)
+Portfolio updates (showcase your best work)
+Lead-gen content (posts, DMs, outreach)
+Learning new GHL features (stay ahead)
+09:10 – 09:30 | Break + Movement
+Activity: Walk around, stretch, hydrate (200ml)
+Importance: High
+Why it matters: Brain needs oxygen. Sitting 2 hours straight = mental fog.
+Consequence: Skip movement and your next work block will be sluggish. You'll stare at screen without output.
+Motivation: "Movement = mental reset. You're sharpening the blade, not wasting time."
+Trick: Walk outside if possible. Look at something far away (resets eye strain).
+09:30 – 11:30 | WORK BLOCK 2 (2 hours)
+Activity: Continue client work OR prospecting/outreach
+Importance: CRITICAL
+Sub-tasks:
+10 squats every 10 min
+Upper body shuffle every 30 min
+10:30: Smoke break (5 min)
+Focus priorities:
+If Block 1 was client work → do outreach/lead-gen now
+If Block 1 was outreach → do client work now
+Respond to any urgent client messages
+Update Trello/Notion with progress
+Why it matters: This is where you either build your funnel pipeline or deliver for existing clients. Both = money.
+Consequence: Skip this and you're 4 hours behind. That's half a work day gone. Your income suffers directly.
+Motivation: "Block 2 is where discipline shows up. Anyone can do Block 1. Winners do Block 2."
+Trick: Change tasks between blocks. If Block 1 was technical, Block 2 should be communication/outreach.
+11:30 – 12:00 | Lunch Prep + Eat
+Activity: Cook or order, eat slowly
+Importance: High
+Why it matters: Midday fuel. Also mental break from screen.
+Consequence: Skip lunch = energy crash at 2pm. You'll work slow, make mistakes, feel irritable.
+Motivation: "Lunch isn't lazy. It's strategic refueling."
+Trick: Meal prep on Sundays. Batch cook rice + chicken. Saves time daily.
+12:00 – 12:10 | Smoke Break #4
+Activity: Smoke, let lunch digest
+Importance: Medium
+Motivation: "Halfway through work. You're doing the thing. Keep going."
+12:10 – 14:10 | WORK BLOCK 3 (2 hours)
+Activity: Deep work on toughest task of the day
+Importance: CRITICAL
+Sub-tasks:
+10 squats every 10 min
+Upper body shuffle every 30 min
+13:10: Smoke break (5 min)
+Why it matters: This is prime focus time. Brain is fed, body is awake. Use this for complex problem-solving.
+Consequence: Waste Block 3 and you'll scramble in Block 4 trying to catch up. Quality drops, stress rises.
+Motivation: "This block is for the hard stuff. The stuff that pays the most. The stuff your competition avoids."
+Trick:
+Tackle the task you've been avoiding
+Break it into micro-steps (15-min chunks)
+Use AI assistant if stuck: "Help me break this down"
+Ideal focus:
+Complex GHL workflows
+Custom widget coding
+Troubleshooting broken funnels
+Writing technical documentation
+14:10 – 14:30 | Afternoon Reset
+Activity: Step outside, stretch, breathe, hydrate (200ml)
+Importance: High
+Why it matters: 6 hours of work = mental fatigue. Reset now or Block 4 suffers.
+Consequence: Skip this and Block 4 becomes zombie mode. Low output, low quality.
+Motivation: "You're not a machine. Even machines need maintenance. 20 minutes now = 2 hours of good work later."
+Trick: Walk barefoot on grass if possible (grounding). Or just stare at sky for 5 minutes.
+14:30 – 16:30 | WORK BLOCK 4 (2 hours)
+Activity: Final push OR admin tasks (invoices, follow-ups, emails)
+Importance: High
+Sub-tasks:
+10 squats every 10 min
+Upper body shuffle every 30 min
+15:30: Smoke break (5 min)
+Why it matters: Last work block. Either finish strong or leave loose ends.
+Consequence: Skip this and you'll work at night when your brain is fried. Better to finish now.
+Motivation: "Block 4 is the closer. This is where you finish what you started. Don't leave wins on the table."
+Trick:
+If energy is low, do easier tasks (emails, admin, social media)
+If energy is high, push one more deliverable across the finish line
+Ideal focus:
+Client communication (updates, check-ins)
+Send proposals
+Invoice completed work
+Clean up Notion/Trello
+Post on LinkedIn/Twitter (build authority)
+16:30 – 16:40 | Smoke Break #7
+Activity: Smoke, decompress from work
+Importance: Medium
+Motivation: "8 hours done. You showed up. Now reset your brain."
+16:40 – 17:00 | Snack + Hydrate
+Activity: Light snack (fruit, nuts), drink 300ml water
+Importance: Medium
+Why it matters: Fuel before snooker. Hydration prevents evening headache.
+Consequence: Minor. But dehydration ruins snooker focus.
+Trick: Keep snacks prepped. Apples + peanut butter. Almonds. Dates.
+17:00 – 19:00 | SNOOKER SESSION (2 hours)
+Activity: Play snooker (solo practice or with friends)
+Importance: CRITICAL
+Why it matters: This is NOT a break. This is mental reset + flow state training. Snooker = focus, precision, calm under pressure. All skills transfer to work.
+Consequence: Skip snooker and you'll burn out by Wednesday. Creativity dies. Problem-solving slows. You become a stressed, joyless work robot.
+Motivation: "Flow state unlocks creativity. This isn't wasted time. This is brain maintenance. Every great shot trains your mind to focus under pressure."
+Trick:
+No phone during snooker
+Focus on process, not outcome
+Practice one specific shot type each session
+Use this time to let subconscious solve work problems
+19:00 – 19:10 | Smoke Break #8
+Activity: Smoke after snooker
+Importance: Medium
+Motivation: "Mental reset complete. Now fuel the body."
+19:10 – 20:00 | Dinner
+Activity: Eat slowly, no screens
+Importance: High
+Why it matters: Recovery meal. Also only time you're NOT working or thinking about work.
+Consequence: Eat while scrolling phone = you won't feel satisfied. You'll snack later, mess up sleep.
+Motivation: "Eating is not multitasking time. Sit. Eat. Enjoy."
+Trick: Put phone in other room. Eat with family if possible. Or just sit in silence.
+20:00 – 20:30 | Evening Reflection
+Activity: Review work done today, write 1 thing learned, plan tomorrow's top 3 tasks
+Importance: CRITICAL
+Why it matters: Without reflection, you don't learn. You repeat mistakes. You don't improve.
+Consequence: Skip this and tomorrow will be chaotic. You'll forget what worked today. You'll waste time deciding what to do.
+Motivation: "Today's data = tomorrow's strategy. Winners analyze. Losers guess."
+Trick:
+Use voice notes if writing feels heavy
+Ask yourself: What worked? What didn't? What do I do differently tomorrow?
+Plan tomorrow's Block 1 task RIGHT NOW so you don't waste morning deciding
+20:30 – 22:00 | Free Time / Wind Down
+Activity: Do whatever you want (YouTube, reading, music, chill with family)
+Importance: High
+Why it matters: Brain needs downtime. This is decompression, not "wasted time."
+Consequence: Work until 11pm and your sleep quality tanks. You'll wake up groggy, whole next day suffers.
+Motivation: "You earned this. You worked 8 hours, moved your body, reflected. Now rest like you mean it."
+Trick:
+No heavy work
+Avoid doom-scrolling (set timer if needed)
+Hydrate (200ml water before bed)
+21:00: Smoke break if needed
+22:00 – 22:15 | Night Routine
+Activity: Brush teeth, shower (every 48 hours), set alarm, phone away
+Importance: Critical
+Why it matters: Good sleep starts with good pre-sleep routine.
+Consequence: Skip this, keep scrolling, sleep at 1am = tomorrow is ruined.
+Motivation: "Sleep is literally building your future self. Treat it like the most important meeting of your day."
+Trick:
+Shower every 48 hours (mark it on calendar)
+Phone on silent, away from bed
+Set alarm for 06:00
+Room as dark as possible
+22:15 – 06:00 | SLEEP (7h 45m)
+Activity: Sleep
+Importance: CRITICAL
+Why it matters: Your brain repairs. Memories consolidate. Body recovers. Creativity recharges. Sleep is non-negotiable.
+Consequence: Sleep 6 hours and tomorrow you'll be 40% dumber. Slow reactions, bad decisions, low willpower. Clients will notice the drop in quality.
+Motivation: "Every hour you sleep = 2 hours of productive work tomorrow. Do the math."
+Trick:
+Cool room (fan or AC if possible)
+No caffeine after 3pm
+No blue light 30 min before bed
+If mind racing, write thoughts down then close notebook
+MOVEMENT BREAKDOWN (built into 8-hour work)
+Total squats per day: 480 (10 squats every 10 min during work blocks)
+Total upper body shuffles: 16 (every 30 min during work blocks)
+Why it matters: Sitting kills focus. Movement = oxygen to brain = better code, better ideas, better troubleshooting.
+Consequence: Skip movement and you'll have back pain, brain fog, and low energy by 3pm.
+Trick: Set phone timer. Do squats at desk. No excuses.
+SMOKING SCHEDULE
+Total smokes per day: ~18 (every hour during waking hours)
+Breaks: 07:00, 08:10, 09:30, 10:30, 12:00, 13:10, 14:30, 15:30, 16:30, 19:00, 21:00 (if needed)
+Importance: Medium (nicotine management)
+Why it matters: Keeps you on schedule. Prevents chain-smoking during work.
+Consequence: Smoke every 20 min = constant interruptions, work suffers, lungs suffer.
+Trick: Only smoke during scheduled breaks. Use breaks as reward for completing task chunks.
+SHOWER SCHEDULE
+Every 48 hours or after snooker if sweaty
+Mark on calendar: Monday, Wednesday, Friday, Sunday
+Why it matters: Hygiene, mental reset, skin health
+Consequence: Skip showers too long = self-respect drops, energy drops, motivation drops
+Trick: Set phone reminder. Shower = non-negotiable maintenance.
+HYDRATION TARGET
+2.5L per day
+500ml morning
+200ml per break (×6) = 1200ml
+300ml lunch
+300ml dinner
+200ml before bed
+= 2500ml total
+Why it matters: Dehydration = brain fog, headaches, low energy, bad decisions
+Consequence: Drink <1L/day and you'll feel like crap, blame everything except water
+Trick: Keep 1L bottle on desk. Finish before lunch. Refill. Finish before dinner.
+WEEKLY ADJUSTMENT PROTOCOL
+Every Sunday at 20:00, review:
+Did you hit 8 hours of work daily? (Mon-Sat)
+Did you sleep 8 hours nightly?
+Did you move consistently? (squats/upper body)
+Did snooker happen?
+Did morning + evening reflection happen?
+What broke? Why?
+What gets adjusted next week?
+AI will ask these questions and log answers.
